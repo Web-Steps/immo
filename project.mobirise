@@ -110,7 +110,7 @@
       "themeColor": "#bd9800"
     },
     "chatbutton": {},
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
